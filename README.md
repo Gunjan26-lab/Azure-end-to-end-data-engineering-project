@@ -1,2 +1,3 @@
 ## Architecture diagram
-<img width="1128" height="546" alt="image" src="https://github.com/user-attachments/assets/f331fd63-5739-455c-aa89-603c1bd71b71" />
+<img width="1083" height="532" alt="image" src="https://github.com/user-attachments/assets/7ea54c72-09f3-46fe-9f46-be82b11ca716" />
+
