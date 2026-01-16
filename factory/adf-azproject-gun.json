@@ -1,0 +1,9 @@
+{
+	"name": "adf-azproject-gun",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb8cdade-0b7b-449d-8990-95acef579df2",
+		"tenantId": "93e98254-0c96-4bcc-b221-6142c39624e1"
+	}
+}
