@@ -42,4 +42,5 @@ Processed data is stored in structured layers in ADLS.
 ### Analytics & Reporting
 Azure Synapse Analytics is used for querying and analytical workloads.
 
-
+## Future Enhancement
+Automate the Pipeline in Azure Data Factory
